@@ -26,7 +26,7 @@ body {
 
 #bg-opacity {
     position: absolute;
-    background: rgb(93, 90, 90) url("https://codjoelmayer.github.io/projectImages/images/joel9.jpg") no-repeat center 30%;
+    background: rgb(93, 90, 90) url("") no-repeat center 30%;
     background-size: cover;
     /* inset is the shorthand for left, right, top and bottom */
     inset: 0;
